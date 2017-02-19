@@ -1,0 +1,39 @@
+@import node_modules;
+@import 'colors.scss';
+@import 'details.scss';
+@import '';
+
+
+head {
+    background-color: aqua;
+}
+
+body {
+    background-color: aliceblue;
+    width: 100%;
+    height: 100%;
+}
+
+.search {
+    border: 10px;
+    margin: 10px;
+}
+
+.firstitem {
+    background-color: aqua;
+    width: 60%;
+    height: 60%;
+
+
+}
+
+.doneItems {
+    background-color: aquamarine;
+    width: 60%;
+    height: 60%;
+
+}
+
+span.fa-clock-o {
+    color: dimgrey;
+}

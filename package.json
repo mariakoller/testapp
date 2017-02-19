@@ -1,0 +1,36 @@
+{
+  "name": "mariakoller",
+  "version": "0.0.1",
+  "devDependencies": {
+    "browser-sync": "^2.18.7",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-clean-css": "^2.4.0",
+    "gulp-sass": "^3.1.0"
+  },
+  "description": "testapp",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.18.7",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-clean-css": "^2.3.2",
+    "gulp-sass": "^3.1.0"
+  },
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariakoller/testapp.git"
+  },
+  "keywords": [
+    ""
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariakoller/testapp/issues"
+  },
+  "homepage": "https://github.com/mariakoller/testapp#readme"
+}
