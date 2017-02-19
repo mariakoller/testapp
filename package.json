@@ -24,9 +24,7 @@
     "type": "git",
     "url": "git+https://github.com/mariakoller/testapp.git"
   },
-  "keywords": [
-    ""
-  ],
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
